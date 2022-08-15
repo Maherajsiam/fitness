@@ -1,7 +1,7 @@
 {
   "name": "fitness",
   "version": "0.1.0",
-  "homepage": "https://Maherajsiam.github.io/fitness",
+  "homepage": "https://maherajsiam.github.io/fitness",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
